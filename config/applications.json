@@ -1,4 +1,14 @@
+
 {
+{
+	"unity": {
+		"category": "development",
+		"choco": "unity engine",
+		"content": "unity",
+		"description": "unity is a game engine that allows ti create games 3d or 2d the coding language is c#",
+		"link": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe",
+		"winget": "UnityTechnologies.UnityHub"
+	},
 	"1password": {
 		"category": "Utilities",
 		"choco": "1password",
