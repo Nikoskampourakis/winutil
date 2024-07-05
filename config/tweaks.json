@@ -1,4 +1,18 @@
 {
+  "WPFTweaksDisableCopilot": {
+    "Content": "Disable Copilot",
+    "Description": "Disables Microsoft Copilot.",
+    "category": "Essential Tweaks",
+    "panel": "1",
+    "Order": "a005_",
+    "Script": {
+      "Type": "PowerShell",
+      "FilePath": "scripts/disable-copilot.ps1"
+    }
+  }
+}
+
+{
   "WPFTweaksAH": {
     "Content": "Disable Activity History",
     "Description": "This erases recent docs, clipboard, and run history.",
